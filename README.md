@@ -1,4 +1,4 @@
-body>
+<body>
     <header>
         <h1>Jogo de Cartas do League of Legends</h1>
     </header>
